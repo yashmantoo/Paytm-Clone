@@ -24,10 +24,6 @@ I learned a lot from this project, especially about using various CSS properties
 
     It took me about 15 hrs
 
-### Here are a few screenshots of the website
-
-![Webpage](./Paytm_ Secure & Fast UPI Payments, Recharge Mobile & Pay Bills_files/paytmclon.netlify.app_.png)
-
 ### You can Check it Live on Below Link :
 
-[Live Link !]()
+[Live Link !](https://paytmclon.netlify.app/)
