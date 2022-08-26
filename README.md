@@ -26,7 +26,7 @@ I learned a lot from this project, especially about using various CSS properties
 
 ### Here are a few screenshots of the website
 
-![Web Site Image](./Paytm_ Secure & Fast UPI Payments, Recharge Mobile & Pay Bills_files/paytmclon.netlify.app_.png)
+![Web Site Image](Paytm-Clone/Paytm_ Secure & Fast UPI Payments, Recharge Mobile & Pay Bills_files/paytmclon.netlify.app_.png)
 
 ### You can Check it Live on Below Link :
 
